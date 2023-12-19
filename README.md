@@ -1,4 +1,4 @@
-# Sejal-Bigdata-Science-Project
+# Bigdata-Science-Project
 # Introduction
 
 # Install Requirements
